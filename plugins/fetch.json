@@ -1,0 +1,28 @@
+{
+  "lineapro-phonegap-plugin-hmt": {
+    "source": {
+      "type": "local",
+      "path": "/Users/abhinavkant/Development/poc/BlinkID/scannerapp/node_modules/lineapro-phonegap-plugin-hmt"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "blinkid-cordova": {
+    "source": {
+      "type": "local",
+      "path": "/Users/abhinavkant/Development/poc/BlinkID/scannerapp/node_modules/blinkid-cordova"
+    },
+    "is_top_level": true,
+    "variables": {
+      "CAMERA_USAGE_DESCRIPTION": " "
+    }
+  },
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
